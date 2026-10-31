@@ -24,5 +24,5 @@ Este repositorio contiene una simulación práctica y controlada desarrollada en
 
 ---
 
-##  Consideraciones Éticas y Declaración de Uso de IA
-Este proyecto ha sido desarrollado exclusivamente con fines académicos bajo los estándares de la UNEMI. El uso de Inteligencia Artificial como apoyo se declara formalmente al final de la documentación del proyecto conforme a las directrices institucionales.
+##  Consideraciones Éticas
+Este proyecto ha sido desarrollado exclusivamente con fines académicos bajo los estándares de la UNEMI.
