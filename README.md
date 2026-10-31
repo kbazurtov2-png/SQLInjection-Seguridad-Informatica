@@ -1,10 +1,11 @@
-# Práctica Nº 4 — Seguridad en Redes LAN, Inalámbricas y Bases de Datos (SQL Injection)
-
+# Seguridad en Redes LAN, Inalámbricas y Bases de Datos (SQL Injection)
+**Institución:** Universidad Estatal de Milagro (UNEMI)
+**Facultad:** Ciencias e Ingeniería
+**Carrera:** Tecnologías de la Información en Línea 
 **Asignatura:** Seguridad Informática  
-**Docente:** Alex Armando Avila Coello  
-**Carrera:** Tecnologías de la Información en Línea  
-**Institución:** Universidad Estatal de Milagro (UNEMI)  
-**Año:** 2026  
+**Docente:** Alex Armando Avila Coello   
+**Periodo:** Agosto 2026 a Diciembre 2026
+
 
 ---
 
